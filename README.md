@@ -35,7 +35,6 @@ Frontend:
 
 - App UI + chart: https://github.com/NattyZepko/FaddomAssignment/blob/main/frontend/src/App.jsx
 - React entry point: https://github.com/NattyZepko/FaddomAssignment/blob/main/frontend/src/main.jsx
-- Vite dev proxy config: https://github.com/NattyZepko/FaddomAssignment/blob/main/frontend/vite.config.js
 
 Config:
 
