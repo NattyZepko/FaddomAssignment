@@ -2,6 +2,8 @@
 
 Node.js backend + React frontend that charts EC2 CPU utilization over time.
 
+<img width="1603" height="855" alt="image" src="https://github.com/user-attachments/assets/7030a97c-9e47-40a6-99e5-999a857b9d3e" />
+
 ## Technologies & Libraries
 
 Backend:
